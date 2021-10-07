@@ -1,0 +1,39 @@
+Peer Review - Hailey Bodycoat
+
+1. What did you like about this website?
+
+    I really like your navigation bar and how it highlights the page that you are on. I also think you did a great job with the color palette and how it flows through each page and fits well with the actual game's color scheme. I have never heard of this game and I think you formatted your site in a way that allows beginners to understand the premise of the game and then work through each step. It is easy to follow in this format which is awesome. I also enjoyed the animations that you provided on each page.
+
+2. Describe one significant difference between your own P1 site and this person's. E.g.
+
+    One thing that we did differently was in how we implemented our animations. I really like how yours is done is CSS as the text above the form and how it spell out "any questions? contact us" with the blinking cursor. I think that is a very unique and suble way to implement an animation as animations can be overpowering and obnoxious at times. I implemented mine using JavaScript by having the navigation bar aappear and disappear when the menu icon is selected.
+
+    A. Which has a better user experience (and why)?
+
+        I personally think that your animation is better since it is unique. I like my animation in the navigation bar but it is very common to see and is nothing special. I had trouble implementing my animation in a way that was useful to the actual website and I admire how you have done yours.
+
+    B. Which codebase do you think would be more maintainable (and why)?
+
+        I also think that your codebase would be easier to maintain since you did a CSS animation. You have less files to deal with and keep organized. It also avoids the issue of possibly forgetting to link the extra Javascript file which would result in an inactive navigation bar in my case.
+
+3. Is the code well-structured within files, and well-organized between files and directories?
+    
+    A. If not, suggest some specific improvements
+
+     Yes, the code is well-structured within the files and is easy to read. The only suggestion I would make in terms of code structure would be to have one CSS files for your navigation bar, background and anything else that is the same among pages and then several separate ones for each page that contains page-specific elements. I would also suggest having a folder for the CSS file as you do with the 'images' folder to maintain an organizated structure especially if you end up dividing up the CSS file into several files.
+
+4. Did you find any other issues? If so, briefly enumerate them.
+    
+    A. Were semantically appropriate elements selected?
+
+        You managed to maintian a distinct difference between your HTML code (semantic) and your CSS code (presentation). This makes it much easier to read as well as reuse code on multiple pages. You included id or class attributes for each HTML element and correctly applied the formatting in the CSS file.
+
+        I think the website incorporated many semantically appropriate elements such as a navigation bar, a form and exterrnal links to get more information. All of these are necessary in a webpage especially one that intends to teach its readers about something. The form allows for questions that might not have been answered on the site and the external links allow for the user to obtain extra information if they want to learn more about a given topic.
+
+    B. Is the CSS refactored to limit duplication?
+
+        You do avoid duplication since every page uses the same CSS file but as I mentioned above, I would recommend moving some of the page-specific code to its own CSS files to create a more organized structure but you do a good job in limiting repeating code.
+
+5. Do you have any other constructive comments for the author?
+
+    I really enjoyed your website and I think you did a great job of executing it. The only suggest I would have would be to add a little bit of additional padding to the bottom of the page just so the text doesn't sit right on the edge of the screen at the bottom. Other than that, I think you killed it!
